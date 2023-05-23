@@ -1,0 +1,628 @@
+﻿Priority,State,Category,Sub_Category,Skill,Hosting,Assignee,Days_to_complete
+High,California,Data Privacy,GDPR,IT,Vendor Cloud,Bob,151
+Low,Minnesota,Cyber Consultation,BCP/DR,IT,On Prem Server,Bob,13
+High,Maryland,Cyber Security Breach,Firewall,HR,Vendor Cloud,Allan,0
+Low,New York,Security Gap,Password non-expiry,IT,On Prem Server,Allan,14
+High,California,Cyber Security Breach,Malware Attack,Legal,On Prem Cloud,Charlotte,7
+Low,California,Cyber Consultation,New Application Launch,Finance,Vendor Cloud,Sebastian,2
+High,Texas,Cyber Consultation,Application Offboarding,Marketing,On Prem Server,Martina,2
+High,Utah,Data Leak,Insider Threat,IT,On Prem Server,Martina,5
+High,Texas,Data Privacy,HIPAA,Finance,On Prem Server,Allan,0
+Low,California,Cyber Consultation,Segregation of Duties,Manufacturing,Vendor Cloud,Sylviya,4
+Low,California,Cyber Consultation,Database Security,IT,On Prem Server,Charlotte,4
+High,California,Data Leak,Insider Threat,HR,Vendor Cloud,Benny,0
+High,Iowa,Cyber Security Breach,Malware Attack,HR,On Prem Server,Benny,6
+Medium,New Jersey,Cyber Consultation,Secure Development,IT,Vendor Cloud,Martina,0
+Low,Florida,Cyber Consultation,Segregation of Duties,Marketing,On Prem Cloud,Robbin,80
+Medium,Utah,Data Privacy,HIPAA,HR,Vendor Cloud,Sebastian,0
+High,California,Data Privacy,GDPR,IT,On Prem Cloud,Martina,70
+High,New Jersey,Data Privacy,HIPAA,Legal,Vendor Cloud,Bob,5
+High,New Jersey,Data Privacy,HIPAA,Legal,Vendor Cloud,Bob,5
+Low,Georgia,Data Leak,Insider Threat,Legal,Vendor Cloud,Allan,68
+Low,Louisiana,Data Leak,Insider Threat,IT,On Prem Cloud,Kareema,239
+Low,Texas,Data Privacy,PCI-DSS,Manufacturing,On Prem Cloud,Bob,16
+Medium,Connecticut,Security Gap,Obsolete Software,Finance,On Prem Server,Allan,0
+Low,California,Cyber Consultation,New Application Launch,Finance,On Prem Server,Allan,0
+Medium,Wisconsin,Data Privacy,Privacy Assessment,IT,On Prem Server,Allan,64
+Low,California,Cyber Consultation,BCP/DR,Marketing,Vendor Cloud,Allan,0
+High,Florida,Cyber Security Breach,Malware Attack,IT,On Prem Cloud,Martina,65
+Low,Oregon,Data Privacy,PCI-DSS,Legal,On Prem Server,Martina,5
+High,New York,Data Privacy,GDPR,HR,On Prem Cloud,Bob,11
+High,California,Data Leak,Insider Threat,Legal,On Prem Server,Cinderalla,6
+Low,Virginia,Data Privacy,PCI-DSS,HR,On Prem Server,Martina,150
+High,California,Cyber Consultation,Application Offboarding,IT,On Prem Cloud,Allan,11
+High,Pennsylvania,Data Privacy,Privacy Assessment,Legal,On Prem Cloud,Aleena,2
+High,Florida,Data Privacy,Privacy Assessment,Finance,Vendor Cloud,Allan,30
+High,California,Cyber Security Breach,Malware Attack,IT,On Prem Server,Charlotte,3
+High,Rhode Island,Cyber Consultation,Secure Development,HR,On Prem Server,Sean,27
+Medium,New York,Cyber Consultation,New Application Launch,Manufacturing,On Prem Server,Charles,6
+Medium,Virginia,Data Privacy,GDPR,IT,On Prem Cloud,Aleena,1
+High,Florida,Cyber Security Breach,Spyware,Finance,On Prem Server,Aleena,40
+High,Texas,Cyber Consultation,BCP/DR,IT,On Prem Server,Robbin,48
+High,Virginia,Cyber Consultation,New Application Launch,Manufacturing,Vendor Cloud,Aleena,0
+Low,Ohio,Data Privacy,Privacy Assessment,Marketing,On Prem Server,Cinderalla,4
+Low,California,Data Leak,Insider Threat,HR,On Prem Cloud,Allan,11
+Medium,New York,Security Gap,Unauthorized software,Finance,On Prem Server,Aleena,4
+Low,Arizona,Data Privacy,HIPAA,Finance,On Prem Cloud,Martina,18
+High,Georgia,Cyber Security Breach,Firewall,Finance,On Prem Cloud,Aleena,1
+Low,Arizona,Cyber Consultation,Application Offboarding,IT,Vendor Cloud,Aleena,7
+High,Texas,Cyber Security Breach,Spyware,Marketing,On Prem Server,Robbin,24
+High,California,Data Privacy,PCI-DSS,Finance,On Prem Server,Robbin,4
+High,New York,Cyber Security Breach,Trojan Attack,Finance,On Prem Cloud,Sebastian,2
+Medium,New York,Cyber Consultation,Segregation of Duties,Finance,On Prem Cloud,Kareema,6
+Low,California,Data Leak,Phishing,Marketing,On Prem Server,Sean,22
+High,Massachusetts,Data Leak,Vishing,HR,On Prem Server,Michael,5
+High,Florida,Cyber Consultation,Encryption,IT,On Prem Server,Veronica,4
+High,Ohio,Cyber Consultation,Access Management,Legal,On Prem Server,Michael,4
+Low,Texas,Data Leak,Insider Threat,Finance,Vendor Cloud,Michael,0
+High,New Mexico,Data Privacy,HIPAA,Finance,Vendor Cloud,Cinderalla,5
+Low,Texas,Data Privacy,GDPR,Legal,On Prem Server,Aleena,11
+High,New York,Data Leak,Vishing,Finance,On Prem Cloud,Charlotte,0
+Medium,Nevada,Security Gap,Password non-expiry,IT,On Prem Server,Kareema,8
+Low,California,Data Privacy,GDPR,Manufacturing,Vendor Cloud,Charles,0
+Medium,Illinois,Data Privacy,Privacy Assessment,IT,On Prem Server,Michael,1
+Low,California,Cyber Consultation,New Application Launch,IT,On Prem Cloud,Michael,71
+High,Pennsylvania,Cyber Security Breach,Malware Attack,HR,On Prem Cloud,Michael,0
+Low,Georgia,Data Privacy,PCI-DSS,Legal,Vendor Cloud,Bob,10
+Low,California,Security Gap,Unauthorized access,IT,Vendor Cloud,Cinderalla,3
+High,Utah,Data Privacy,GDPR,Marketing,On Prem Server,Martina,0
+Low,North Carolina,Data Privacy,HIPAA,IT,On Prem Cloud,Bob,0
+Low,Arizona,Data Privacy,HIPAA,HR,On Prem Server,Sean,0
+High,Texas,Cyber Consultation,New Application Launch,Finance,On Prem Cloud,Sean,1
+High,Florida,Cyber Security Breach,Firewall,HR,On Prem Server,Sean,1
+High,Minnesota,Cyber Consultation,Third Party Engagement,IT,On Prem Server,Sean,0
+Medium,North Carolina,Data Privacy,PCI-DSS,IT,Vendor Cloud,Kareema,1
+Medium,California,Cyber Consultation,Segregation of Duties,Manufacturing,On Prem Server,Kareema,1
+Medium,Florida,Cyber Consultation,Application Offboarding,IT,On Prem Server,Martina,5
+Medium,California,Data Leak,Vishing,Marketing,On Prem Server,Bob,10
+High,California,Cyber Security Breach,Firewall,Marketing,Vendor Cloud,Sean,11
+High,California,Cyber Consultation,Segregation of Duties,IT,On Prem Server,Allan,0
+Low,California,Cyber Consultation,Application Offboarding,Finance,On Prem Server,Allan,0
+Low,Virginia,Security Gap,Unauthorized access,HR,On Prem Server,Allan,0
+Medium,Arizona,Cyber Consultation,Application Offboarding,HR,Vendor Cloud,Kareema,5
+Low,New York,Cyber Consultation,Encryption,HR,On Prem Server,Kareema,0
+Medium,New York,Cyber Consultation,New Application Launch,HR,On Prem Server,Sean,3
+Low,Oregon,Data Privacy,GDPR,Finance,On Prem Cloud,Bob,0
+High,Illinois,Security Gap,Obsolete Software,IT,Vendor Cloud,Bob,0
+High,Minnesota,Cyber Security Breach,Malware Attack,HR,On Prem Server,Robbin,23
+Low,New York,Data Leak,Phishing,Manufacturing,Vendor Cloud,Aleena,11
+Low,Florida,Data Privacy,HIPAA,Legal,On Prem Cloud,Veronica,2
+High,Florida,Cyber Security Breach,Trojan Attack,Marketing,On Prem Server,Bob,59
+Low,Arizona,Data Privacy,HIPAA,Legal,Vendor Cloud,Charlotte,21
+Medium,Missouri,Cyber Consultation,Third Party Engagement,HR,Vendor Cloud,Charlotte,21
+High,Louisiana,Cyber Security Breach,Malware Attack,IT,On Prem Server,Sylviya,2
+High,Tennessee,Data Privacy,PCI-DSS,HR,On Prem Server,Sylviya,2
+Low,Virginia,Data Privacy,Privacy Assessment,HR,Vendor Cloud,Martina,2
+High,Kansas,Security Gap,Password non-expiry,HR,Vendor Cloud,Martina,2
+Medium,Virginia,Cyber Consultation,Encryption,Finance,On Prem Server,Sean,16
+Low,Arizona,Data Privacy,HIPAA,IT,On Prem Server,Sean,16
+High,California,Cyber Security Breach,Firewall,IT,On Prem Server,Aleena,11
+Low,Pennsylvania,Cyber Consultation,New Application Launch,HR,On Prem Server,Sean,0
+Low,Colorado,Security Gap,Password non-expiry,HR,Vendor Cloud,Sean,0
+High,New Jersey,Data Privacy,HIPAA,Legal,Vendor Cloud,Bob,5
+High,Illinois,Cyber Security Breach,Firewall,Finance,On Prem Server,Sean,6
+Low,Texas,Data Privacy,HIPAA,Finance,Vendor Cloud,Robbin,78
+High,Oregon,Cyber Consultation,Application Offboarding,Manufacturing,On Prem Server,Robbin,78
+Low,New York,Data Leak,Phishing,IT,Vendor Cloud,Robbin,151
+High,Indiana,Data Privacy,GDPR,Manufacturing,On Prem Cloud,Bob,0
+High,Texas,Data Privacy,HIPAA,HR,Vendor Cloud,Bob,0
+Low,Virginia,Data Leak,Insider Threat,IT,Vendor Cloud,Bob,0
+High,Virginia,Cyber Security Breach,Spyware,Finance,On Prem Server,Charlotte,2
+Medium,Ohio,Data Privacy,HIPAA,HR,On Prem Server,Bob,0
+High,Ohio,Data Privacy,Privacy Assessment,Finance,Vendor Cloud,Bob,0
+Medium,Delaware,Data Privacy,Privacy Assessment,Marketing,On Prem Cloud,Bob,13
+Low,Tennessee,Cyber Consultation,New Application Launch,HR,On Prem Cloud,Charles,4
+High,California,Data Privacy,GDPR,IT,Vendor Cloud,Bob,31
+High,California,Data Privacy,GDPR,IT,On Prem Server,Martina,7
+Low,Minnesota,Cyber Consultation,BCP/DR,IT,On Prem Server,Bob,13
+High,Maryland,Cyber Security Breach,Firewall,HR,Vendor Cloud,Allan,0
+High,Arizona,Cyber Security Breach,Malware Attack,Finance,On Prem Cloud,Allan,0
+Low,New York,Security Gap,Password non-expiry,IT,On Prem Server,Allan,14
+Low,California,Data Privacy,HIPAA,Finance,On Prem Server,Kareema,2
+High,California,Cyber Security Breach,Malware Attack,Legal,On Prem Cloud,Charlotte,7
+Low,California,Cyber Consultation,New Application Launch,Finance,Vendor Cloud,Sebastian,2
+High,Texas,Cyber Consultation,Application Offboarding,Marketing,On Prem Server,Charlotte,2
+High,Utah,Data Leak,Insider Threat,IT,On Prem Server,Martina,5
+Low,District of Columbia,Data Privacy,GDPR,Marketing,Vendor Cloud,Charles,7
+Low,California,Cyber Consultation,Segregation of Duties,Manufacturing,Vendor Cloud,Sylviya,4
+High,Utah,Data Privacy,HIPAA,Legal,On Prem Cloud,Martina,4
+High,Missouri,Data Privacy,GDPR,Manufacturing,On Prem Server,Martina,4
+Low,Louisiana,Data Leak,Insider Threat,IT,On Prem Cloud,Kareema,119
+Medium,California,Security Gap,Obsolete Software,Marketing,Vendor Cloud,Kareema,119
+High,New York,Data Leak,Insider Threat,HR,On Prem Cloud,Kareema,2
+High,California,Cyber Consultation,Application Offboarding,IT,On Prem Cloud,Allan,11
+Low,California,Data Leak,Insider Threat,HR,On Prem Cloud,Allan,11
+High,Florida,Cyber Consultation,Encryption,IT,On Prem Server,Veronica,4
+High,Michigan,Data Leak,Insider Threat,IT,Vendor Cloud,Veronica,4
+Low,Georgia,Data Privacy,PCI-DSS,Legal,Vendor Cloud,Bob,10
+Medium,California,Data Leak,Vishing,Marketing,On Prem Server,Bob,10
+Low,New York,Data Leak,Phishing,Manufacturing,Vendor Cloud,Aleena,11
+High,California,Cyber Security Breach,Firewall,IT,On Prem Server,Aleena,11
+High,Virginia,Cyber Security Breach,Spyware,Finance,On Prem Server,Charlotte,2
+Medium,Oregon,Data Privacy,GDPR,HR,Vendor Cloud,Charlotte,2
+High,Florida,Cyber Security Breach,Malware Attack,Finance,On Prem Server,Benny,2
+Low,California,Data Privacy,HIPAA,Finance,On Prem Server,Kareema,2
+High,New York,Data Leak,Insider Threat,HR,On Prem Cloud,Kareema,2
+High,Florida,Cyber Security Breach,Malware Attack,Finance,On Prem Server,Benny,2
+Medium,Colorado,Cyber Consultation,Segregation of Duties,Finance,On Prem Cloud,Benny,2
+Medium,California,Data Privacy,PCI-DSS,Legal,On Prem Server,Martina,6
+Medium,District of Columbia,Cyber Consultation,Segregation of Duties,IT,On Prem Server,Martina,6
+High,California,Cyber Security Breach,Firewall,IT,On Prem Server,Benny,5
+High,Colorado,Data Privacy,HIPAA,HR,Vendor Cloud,Benny,5
+High,Virginia,Cyber Consultation,BCP/DR,IT,On Prem Server,Kareema,1
+High,Mississippi,Security Gap,Unauthorized access,Manufacturing,Vendor Cloud,Kareema,1
+Medium,California,Data Privacy,PCI-DSS,Legal,On Prem Server,Martina,6
+Low,Illinois,Data Leak,Vishing,HR,On Prem Server,Benny,0
+High,Alabama,Cyber Security Breach,Spyware,HR,On Prem Cloud,Benny,0
+High,Utah,Data Privacy,GDPR,Finance,On Prem Server,Benny,4
+Low,California,Cyber Consultation,Database Security,IT,On Prem Server,Charlotte,4
+Low,Massachusetts,Data Privacy,Privacy Assessment,IT,On Prem Cloud,Martina,4
+Low,Ohio,Data Leak,Phishing,HR,On Prem Server,Benny,0
+Low,Florida,Cyber Consultation,Application Offboarding,Manufacturing,On Prem Server,Bob,60
+Medium,New York,Data Leak,Insider Threat,Marketing,Vendor Cloud,Martina,57
+High,California,Cyber Consultation,BCP/DR,Finance,On Prem Cloud,Robbin,59
+High,New York,Data Privacy,HIPAA,IT,On Prem Server,Charles,15
+High,California,Cyber Security Breach,Firewall,IT,On Prem Server,Benny,5
+Low,California,Data Privacy,HIPAA,Manufacturing,Vendor Cloud,Charles,7
+High,California,Data Leak,Insider Threat,HR,Vendor Cloud,Benny,0
+Medium,North Carolina,Data Leak,Phishing,Marketing,On Prem Server,Benny,0
+High,Iowa,Cyber Security Breach,Malware Attack,HR,On Prem Server,Benny,6
+High,Wisconsin,Cyber Security Breach,Malware Attack,IT,On Prem Server,Martina,14
+High,California,Data Leak,Vishing,HR,On Prem Server,Martina,5
+Medium,New Jersey,Cyber Consultation,Secure Development,IT,Vendor Cloud,Martina,0
+Low,District of Columbia,Data Privacy,Privacy Assessment,IT,On Prem Server,Cinderalla,8
+High,New York,Data Privacy,HIPAA,HR,On Prem Server,Martina,0
+Low,Florida,Cyber Consultation,Segregation of Duties,Marketing,On Prem Cloud,Robbin,19
+High,Colorado,Data Privacy,HIPAA,HR,Vendor Cloud,Benny,5
+Low,Pennsylvania,Data Privacy,Privacy Assessment,HR,Vendor Cloud,Sebastian,6
+Medium,Utah,Data Privacy,HIPAA,HR,Vendor Cloud,Sebastian,0
+High,California,Data Privacy,GDPR,IT,On Prem Cloud,Martina,9
+High,Virginia,Data Leak,Phishing,Finance,Vendor Cloud,Kareema,0
+High,Florida,Security Gap,Obsolete Software,Manufacturing,On Prem Cloud,Robbin,119
+Low,Illinois,Data Privacy,PCI-DSS,HR,On Prem Server,Charles,7
+High,North Carolina,Cyber Security Breach,Malware Attack,IT,On Prem Server,Martina,12
+Low,Georgia,Data Leak,Insider Threat,Legal,Vendor Cloud,Allan,7
+High,Texas,Data Privacy,GDPR,HR,On Prem Cloud,Charles,8
+Low,Washington,Cyber Consultation,Secure Development,HR,Vendor Cloud,Martina,0
+High,Virginia,Cyber Consultation,BCP/DR,IT,On Prem Server,Kareema,1
+Low,Washington,Cyber Consultation,New Application Launch,Finance,On Prem Server,Kareema,25
+Medium,Tennessee,Cyber Consultation,BCP/DR,IT,On Prem Server,Martina,18
+Medium,Connecticut,Security Gap,Obsolete Software,Finance,On Prem Server,Allan,0
+Low,California,Cyber Consultation,New Application Launch,Finance,On Prem Server,Allan,0
+Medium,Wisconsin,Data Privacy,Privacy Assessment,IT,On Prem Server,Allan,3
+High,Connecticut,Cyber Consultation,Segregation of Duties,Finance,On Prem Server,Allan,0
+Medium,Illinois,Cyber Consultation,Third Party Engagement,IT,On Prem Server,Allan,36
+Low,California,Cyber Consultation,BCP/DR,Marketing,Vendor Cloud,Allan,0
+High,Florida,Cyber Security Breach,Malware Attack,IT,On Prem Cloud,Sylviya,4
+Medium,Maryland,Security Gap,Password non-expiry,Finance,On Prem Server,Martina,6
+High,Alabama,Cyber Security Breach,Spyware,HR,On Prem Cloud,Benny,0
+Low,Utah,Security Gap,Unauthorized software,Legal,Vendor Cloud,Cinderalla,7
+High,New York,Cyber Security Breach,Malware Attack,Finance,On Prem Server,Charlotte,12
+High,Texas,Cyber Security Breach,Malware Attack,Marketing,Vendor Cloud,Martina,43
+Low,Texas,Cyber Consultation,Application Offboarding,HR,On Prem Server,Martina,1
+High,New York,Data Leak,Phishing,IT,On Prem Server,Martina,110
+High,Georgia,Data Privacy,Privacy Assessment,Finance,On Prem Server,Charles,2
+High,Texas,Cyber Consultation,Database Security,IT,On Prem Server,Sebastian,0
+Low,Virginia,Data Privacy,Privacy Assessment,IT,On Prem Server,Charles,1
+Medium,North Carolina,Data Privacy,GDPR,Manufacturing,On Prem Cloud,Cinderalla,0
+High,New York,Cyber Consultation,Third Party Engagement,IT,On Prem Server,Bob,0
+High,Utah,Data Privacy,GDPR,Finance,On Prem Server,Benny,4
+Low,California,Data Privacy,Privacy Assessment,Manufacturing,On Prem Cloud,Cinderalla,0
+Medium,Utah,Cyber Consultation,New Application Launch,Manufacturing,On Prem Server,Veronica,6
+High,Washington,Cyber Consultation,Application Offboarding,Legal,On Prem Cloud,Martina,1
+High,Ohio,Data Privacy,HIPAA,HR,On Prem Cloud,Charles,6
+Low,Massachusetts,Cyber Consultation,New Application Launch,Legal,On Prem Server,Cinderalla,22
+High,Florida,Data Leak,Phishing,Finance,On Prem Server,Aleena,49
+High,New York,Cyber Consultation,Application Offboarding,Marketing,Vendor Cloud,Cinderalla,7
+Medium,Virginia,Cyber Consultation,Access Management,Legal,On Prem Cloud,Michael,42
+High,Michigan,Data Privacy,PCI-DSS,IT,On Prem Cloud,Martina,0
+Low,Illinois,Data Privacy,HIPAA,HR,On Prem Server,Robbin,0
+Low,California,Cyber Consultation,Database Security,IT,On Prem Server,Charlotte,4
+Medium,California,Data Privacy,GDPR,IT,Vendor Cloud,Robbin,0
+High,New York,Data Leak,Insider Threat,IT,On Prem Server,Charles,7
+Medium,Illinois,Security Gap,Password non-expiry,Legal,On Prem Cloud,Michael,8
+Medium,Kansas,Security Gap,Obsolete Software,IT,Vendor Cloud,Sebastian,14
+High,Florida,Data Leak,Vishing,IT,On Prem Cloud,Michael,0
+High,New York,Cyber Consultation,BCP/DR,Finance,Vendor Cloud,Cinderalla,10
+High,Texas,Data Privacy,HIPAA,IT,On Prem Server,Sebastian,15
+High,New York,Cyber Security Breach,Firewall,IT,On Prem Server,Sylviya,9
+High,Massachusetts,Cyber Security Breach,Spyware,Finance,On Prem Server,Michael,7
+High,Michigan,Data Leak,Phishing,Finance,On Prem Server,Robbin,0
+High,California,Cyber Consultation,BCP/DR,Finance,On Prem Cloud,Robbin,179
+High,Nevada,Data Leak,Vishing,HR,On Prem Server,Robbin,12
+Low,Colorado,Data Leak,Phishing,Finance,On Prem Server,Robbin,0
+High,Texas,Data Privacy,GDPR,Legal,On Prem Server,Veronica,3
+Low,Kentucky,Cyber Consultation,Encryption,IT,On Prem Server,Kareema,1
+Medium,Maryland,Cyber Consultation,Application Offboarding,Legal,Vendor Cloud,Kareema,4
+Low,California,Cyber Consultation,Third Party Engagement,Legal,On Prem Server,Charles,4
+Medium,Illinois,Data Leak,Phishing,HR,On Prem Cloud,Cinderalla,5
+Low,Virginia,Data Leak,Insider Threat,Finance,Vendor Cloud,Sean,9
+Medium,California,Data Privacy,Privacy Assessment,Finance,On Prem Cloud,Martina,68
+High,South Carolina,Cyber Security Breach,Spyware,Legal,On Prem Server,Michael,0
+High,California,Data Leak,Insider Threat,HR,Vendor Cloud,Benny,0
+High,Virginia,Cyber Security Breach,Malware Attack,IT,On Prem Cloud,Michael,0
+Medium,Massachusetts,Cyber Consultation,Access Management,Marketing,On Prem Server,Charles,1
+High,Georgia,Cyber Security Breach,Firewall,Manufacturing,Vendor Cloud,Sean,13
+Low,New York,Security Gap,Obsolete Software,Legal,On Prem Server,Cinderalla,0
+High,North Carolina,Cyber Security Breach,Malware Attack,Marketing,On Prem Server,Charlotte,0
+High,California,Data Leak,Phishing,IT,On Prem Server,Michael,40
+High,Virginia,Data Privacy,GDPR,Marketing,On Prem Server,Kareema,1
+Low,California,Data Privacy,PCI-DSS,Marketing,Vendor Cloud,Martina,61
+High,Florida,Data Privacy,Privacy Assessment,IT,On Prem Cloud,Allan,0
+Low,Louisiana,Cyber Consultation,Access Management,Marketing,On Prem Server,Allan,0
+High,Iowa,Cyber Security Breach,Malware Attack,HR,On Prem Server,Benny,6
+Medium,California,Cyber Consultation,New Application Launch,Manufacturing,Vendor Cloud,Allan,0
+Medium,Illinois,Cyber Consultation,New Application Launch,Finance,On Prem Server,Allan,0
+High,Indiana,Data Leak,Insider Threat,Marketing,On Prem Server,Allan,0
+Medium,Alabama,Data Privacy,PCI-DSS,HR,On Prem Server,Allan,0
+Low,California,Data Leak,Insider Threat,Manufacturing,On Prem Cloud,Allan,0
+High,Wisconsin,Data Privacy,HIPAA,Marketing,On Prem Server,Robbin,12
+High,District of Columbia,Cyber Security Breach,Spyware,Legal,On Prem Cloud,Michael,12
+Low,New York,Cyber Consultation,BCP/DR,Manufacturing,Vendor Cloud,Cinderalla,11
+Medium,Florida,Data Privacy,PCI-DSS,Marketing,On Prem Server,Bob,9
+High,North Carolina,Cyber Security Breach,Firewall,Legal,Vendor Cloud,Bob,8
+Medium,New Jersey,Cyber Consultation,Secure Development,IT,Vendor Cloud,Martina,0
+Medium,Georgia,Data Leak,Phishing,HR,On Prem Cloud,Charles,2
+High,Nebraska,Cyber Consultation,Third Party Engagement,IT,On Prem Server,Veronica,1
+High,California,Data Leak,Vishing,Marketing,On Prem Server,Aleena,7
+High,Minnesota,Security Gap,Obsolete Software,Legal,On Prem Cloud,Sylviya,2
+Medium,Hawaii,Data Privacy,GDPR,IT,On Prem Cloud,Michael,0
+Medium,District of Columbia,Cyber Consultation,Database Security,Legal,On Prem Server,Cinderalla,11
+Low,Florida,Security Gap,Unauthorized software,Legal,Vendor Cloud,Michael,0
+Low,Florida,Data Leak,Insider Threat,Legal,On Prem Server,Bob,10
+High,Virginia,Cyber Security Breach,Firewall,Finance,On Prem Server,Bob,12
+High,Tennessee,Security Gap,Obsolete Software,IT,On Prem Server,Charlotte,14
+Low,Florida,Cyber Consultation,Segregation of Duties,Marketing,On Prem Cloud,Robbin,139
+High,Michigan,Data Privacy,PCI-DSS,IT,On Prem Cloud,Martina,0
+Medium,New York,Cyber Consultation,Access Management,Marketing,On Prem Server,Sean,2
+High,Pennsylvania,Data Privacy,Privacy Assessment,Legal,On Prem Server,Charles,0
+Low,North Carolina,Data Privacy,PCI-DSS,IT,On Prem Server,Charlotte,2
+High,Indiana,Cyber Consultation,Application Offboarding,Finance,Vendor Cloud,Kareema,6
+Low,Colorado,Security Gap,Obsolete Software,HR,Vendor Cloud,Aleena,6
+Medium,California,Data Privacy,PCI-DSS,Manufacturing,On Prem Server,Aleena,6
+Medium,New Hampshire,Cyber Consultation,New Application Launch,Manufacturing,Vendor Cloud,Charles,6
+Low,California,Data Leak,Phishing,IT,On Prem Server,Michael,30
+High,Florida,Security Gap,Obsolete Software,Legal,Vendor Cloud,Sebastian,2
+Medium,Utah,Data Privacy,HIPAA,HR,Vendor Cloud,Sebastian,0
+Medium,Pennsylvania,Data Leak,Phishing,Marketing,On Prem Server,Michael,1
+Medium,California,Data Privacy,HIPAA,HR,On Prem Cloud,Martina,4
+Low,New Jersey,Data Privacy,GDPR,HR,Vendor Cloud,Michael,0
+Low,Washington,Data Privacy,PCI-DSS,IT,Vendor Cloud,Charles,1
+Low,Illinois,Data Privacy,HIPAA,Finance,On Prem Server,Michael,1
+Low,Oregon,Data Privacy,GDPR,Legal,Vendor Cloud,Martina,5
+Low,Utah,Data Privacy,Privacy Assessment,IT,On Prem Server,Charles,12
+High,California,Data Privacy,Privacy Assessment,HR,Vendor Cloud,Michael,0
+Low,Iowa,Data Privacy,PCI-DSS,Finance,Vendor Cloud,Robbin,8
+High,Connecticut,Cyber Security Breach,Spyware,HR,On Prem Server,Kareema,2
+High,California,Data Privacy,GDPR,IT,On Prem Cloud,Martina,129
+High,Rhode Island,Cyber Security Breach,Malware Attack,Finance,On Prem Server,Allan,0
+High,Arizona,Data Privacy,GDPR,Finance,On Prem Server,Allan,0
+Low,Florida,Data Leak,Insider Threat,Legal,Vendor Cloud,Allan,0
+High,California,Cyber Security Breach,Spyware,Marketing,Vendor Cloud,Benny,99
+High,North Carolina,Cyber Security Breach,Firewall,IT,On Prem Server,Martina,23
+Medium,California,Data Privacy,Privacy Assessment,HR,On Prem Cloud,Robbin,0
+Low,California,Data Privacy,HIPAA,Finance,Vendor Cloud,Martina,1
+High,Florida,Cyber Security Breach,Malware Attack,Marketing,On Prem Server,Cinderalla,13
+Low,Texas,Data Privacy,PCI-DSS,HR,On Prem Server,Aleena,9
+Low,California,Data Privacy,GDPR,HR,On Prem Server,Michael,0
+High,Virginia,Data Privacy,HIPAA,Manufacturing,On Prem Server,Martina,16
+Low,New York,Data Privacy,GDPR,Finance,Vendor Cloud,Michael,6
+Low,South Carolina,Security Gap,Unauthorized access,HR,On Prem Cloud,Robbin,15
+High,Pennsylvania,Cyber Security Breach,Spyware,HR,On Prem Server,Sebastian,18
+High,Ohio,Cyber Security Breach,Trojan Attack,IT,On Prem Cloud,Robbin,4
+High,New York,Data Privacy,PCI-DSS,Finance,On Prem Server,Charles,6
+High,New Jersey,Data Privacy,GDPR,Legal,Vendor Cloud,Charles,2
+High,California,Cyber Security Breach,Firewall,Marketing,Vendor Cloud,Martina,14
+Medium,Massachusetts,Data Leak,Insider Threat,HR,On Prem Cloud,Charlotte,36
+Low,Florida,Cyber Consultation,Application Offboarding,Legal,On Prem Server,Michael,34
+High,California,Cyber Consultation,Database Security,IT,On Prem Cloud,Sean,9
+Low,Georgia,Data Leak,Insider Threat,Legal,Vendor Cloud,Allan,127
+Medium,California,Data Leak,Insider Threat,Manufacturing,On Prem Server,Michael,22
+Medium,New York,Data Privacy,PCI-DSS,Legal,On Prem Server,Sean,1
+Medium,Alabama,Data Privacy,PCI-DSS,IT,On Prem Server,Sean,15
+Medium,New York,Data Leak,Insider Threat,IT,On Prem Server,Veronica,19
+High,Florida,Data Leak,Phishing,Marketing,On Prem Server,Charles,1
+High,Colorado,Cyber Security Breach,Malware Attack,IT,On Prem Server,Martina,13
+Low,Idaho,Data Privacy,PCI-DSS,HR,On Prem Cloud,Bob,18
+Low,New Jersey,Data Privacy,HIPAA,Finance,On Prem Server,Cinderalla,5
+High,Michigan,Data Leak,Insider Threat,IT,Vendor Cloud,Robbin,8
+Low,District of Columbia,Data Privacy,HIPAA,HR,On Prem Cloud,Veronica,0
+High,Michigan,Data Privacy,PCI-DSS,IT,On Prem Cloud,Martina,0
+High,Maryland,Cyber Security Breach,Malware Attack,HR,On Prem Server,Charles,4
+High,Illinois,Cyber Consultation,BCP/DR,Finance,On Prem Server,Cinderalla,3
+High,Georgia,Cyber Consultation,Secure Development,Manufacturing,On Prem Server,Charles,7
+Low,Texas,Cyber Consultation,Secure Development,Manufacturing,On Prem Server,Veronica,0
+Low,California,Data Privacy,GDPR,Finance,On Prem Server,Veronica,0
+High,New York,Cyber Security Breach,Firewall,Marketing,Vendor Cloud,Sebastian,47
+Low,Nevada,Data Leak,Vishing,Finance,On Prem Cloud,Cinderalla,73
+High,Maryland,Data Leak,Insider Threat,IT,On Prem Cloud,Allan,2
+High,Washington,Data Privacy,HIPAA,Finance,On Prem Server,Cinderalla,14
+High,Illinois,Cyber Consultation,BCP/DR,Finance,On Prem Server,Cinderalla,1
+Low,Washington,Cyber Consultation,Secure Development,HR,Vendor Cloud,Martina,0
+High,Texas,Cyber Security Breach,Trojan Attack,Manufacturing,Vendor Cloud,Cinderalla,8
+High,West Virginia,Cyber Consultation,Encryption,IT,On Prem Cloud,Charles,3
+Low,Ohio,Data Privacy,Privacy Assessment,Finance,On Prem Server,Charles,6
+Low,Indiana,Data Privacy,Privacy Assessment,HR,On Prem Server,Cinderalla,4
+Medium,Georgia,Data Privacy,Privacy Assessment,IT,On Prem Server,Robbin,35
+High,Delaware,Cyber Security Breach,Trojan Attack,HR,On Prem Server,Sylviya,4
+Low,California,Data Privacy,PCI-DSS,Manufacturing,Vendor Cloud,Sebastian,12
+Medium,California,Data Privacy,Privacy Assessment,Finance,On Prem Cloud,Martina,127
+Low,Virginia,Data Leak,Phishing,IT,Vendor Cloud,Robbin,24
+High,Washington,Data Privacy,PCI-DSS,Finance,On Prem Server,Veronica,6
+Medium,Tennessee,Cyber Consultation,BCP/DR,IT,On Prem Server,Martina,138
+Low,California,Data Privacy,Privacy Assessment,Finance,Vendor Cloud,Veronica,7
+High,Georgia,Data Privacy,GDPR,Finance,Vendor Cloud,Aleena,3
+Medium,North Carolina,Cyber Consultation,Access Management,Finance,On Prem Server,Charles,0
+High,Illinois,Data Privacy,GDPR,Marketing,On Prem Cloud,Veronica,9
+High,Kansas,Cyber Consultation,BCP/DR,Marketing,On Prem Cloud,Martina,4
+High,Texas,Cyber Security Breach,Malware Attack,Finance,Vendor Cloud,Charles,30
+Low,Georgia,Security Gap,Unauthorized access,IT,Vendor Cloud,Charles,2
+High,Florida,Cyber Consultation,BCP/DR,Manufacturing,On Prem Server,Sylviya,6
+Medium,Georgia,Data Privacy,HIPAA,IT,Vendor Cloud,Martina,3
+Low,New York,Data Privacy,Privacy Assessment,Legal,Vendor Cloud,Veronica,0
+Medium,Connecticut,Security Gap,Obsolete Software,Finance,On Prem Server,Allan,0
+Low,Illinois,Data Leak,Insider Threat,HR,On Prem Server,Allan,0
+Low,California,Cyber Consultation,Segregation of Duties,HR,On Prem Cloud,Allan,0
+Low,Florida,Data Privacy,HIPAA,IT,On Prem Server,Allan,0
+Low,California,Cyber Consultation,Secure Development,IT,On Prem Server,Allan,0
+High,California,Data Leak,Insider Threat,IT,On Prem Cloud,Martina,9
+High,Texas,Cyber Security Breach,Malware Attack,Finance,On Prem Server,Charles,6
+Low,California,Security Gap,Unauthorized access,Legal,Vendor Cloud,Veronica,0
+High,Utah,Data Privacy,HIPAA,IT,On Prem Cloud,Aleena,1
+Low,Florida,Data Privacy,HIPAA,Finance,On Prem Cloud,Cinderalla,8
+Low,Texas,Data Privacy,Privacy Assessment,IT,Vendor Cloud,Veronica,13
+Low,California,Cyber Consultation,New Application Launch,Finance,On Prem Server,Allan,0
+High,Missouri,Data Leak,Phishing,IT,Vendor Cloud,Bob,14
+Low,Maine,Security Gap,Unauthorized software,HR,On Prem Cloud,Cinderalla,8
+Low,Texas,Data Privacy,HIPAA,HR,On Prem Server,Charles,7
+Medium,Texas,Data Privacy,PCI-DSS,Marketing,On Prem Cloud,Sean,7
+High,Illinois,Data Privacy,HIPAA,IT,On Prem Cloud,Charles,3
+Low,Florida,Data Leak,Insider Threat,Legal,Vendor Cloud,Sean,6
+Low,Massachusetts,Data Privacy,GDPR,Finance,On Prem Cloud,Martina,6
+High,Virginia,Cyber Security Breach,Trojan Attack,IT,On Prem Cloud,Bob,5
+Low,California,Data Privacy,GDPR,HR,On Prem Server,Robbin,24
+Low,Virginia,Data Leak,Insider Threat,IT,On Prem Server,Veronica,122
+Medium,Wisconsin,Data Privacy,Privacy Assessment,IT,On Prem Server,Allan,123
+High,Texas,Data Privacy,GDPR,Legal,On Prem Server,Robbin,0
+Low,New York,Data Privacy,PCI-DSS,HR,Vendor Cloud,Charles,2
+Low,Oregon,Cyber Consultation,Secure Development,HR,On Prem Server,Martina,10
+Low,Washington,Cyber Consultation,New Application Launch,Marketing,On Prem Cloud,Sylviya,9
+High,Illinois,Cyber Security Breach,Firewall,Marketing,On Prem Cloud,Sylviya,9
+Low,Washington,Cyber Consultation,New Application Launch,Finance,On Prem Server,Martina,1
+High,Florida,Cyber Consultation,BCP/DR,HR,On Prem Cloud,Cinderalla,1
+High,Texas,Security Gap,Obsolete Software,IT,On Prem Server,Martina,7
+Low,Nevada,Cyber Consultation,Access Management,Finance,On Prem Server,Charles,10
+Medium,New York,Data Privacy,GDPR,HR,On Prem Server,Charles,5
+High,Connecticut,Cyber Consultation,Segregation of Duties,Finance,On Prem Server,Allan,0
+Medium,Massachusetts,Cyber Consultation,Database Security,IT,Vendor Cloud,Veronica,116
+High,Florida,Data Privacy,PCI-DSS,Marketing,Vendor Cloud,Bob,17
+Low,Oklahoma,Data Leak,Vishing,Marketing,Vendor Cloud,Charles,6
+Medium,California,Data Leak,Phishing,Manufacturing,On Prem Server,Robbin,18
+Low,California,Cyber Consultation,New Application Launch,Marketing,Vendor Cloud,Charles,3
+High,Texas,Cyber Security Breach,Firewall,IT,On Prem Server,Sylviya,31
+High,Utah,Cyber Security Breach,Trojan Attack,Marketing,On Prem Server,Veronica,51
+High,Florida,Cyber Consultation,Database Security,Manufacturing,On Prem Cloud,Martina,7
+High,Florida,Cyber Security Breach,Trojan Attack,IT,On Prem Server,Charles,0
+High,Montana,Cyber Consultation,Third Party Engagement,IT,On Prem Server,Cinderalla,0
+Medium,Illinois,Cyber Consultation,Third Party Engagement,IT,On Prem Server,Allan,156
+Medium,Virginia,Security Gap,Password non-expiry,Finance,On Prem Cloud,Robbin,18
+Medium,Pennsylvania,Security Gap,Unauthorized access,IT,On Prem Cloud,Bob,7
+High,California,Data Leak,Insider Threat,Manufacturing,Vendor Cloud,Michael,14
+High,California,Cyber Consultation,Secure Development,HR,On Prem Cloud,Charlotte,7
+Low,Massachusetts,Data Privacy,Privacy Assessment,IT,On Prem Cloud,Sylviya,13
+High,Minnesota,Cyber Security Breach,Firewall,Manufacturing,Vendor Cloud,Martina,6
+High,Virginia,Data Privacy,GDPR,HR,On Prem Cloud,Sylviya,0
+Medium,Colorado,Cyber Consultation,Access Management,Marketing,On Prem Server,Martina,13
+Low,Arizona,Cyber Consultation,BCP/DR,IT,On Prem Cloud,Charles,7
+Low,Wisconsin,Data Leak,Phishing,HR,On Prem Server,Martina,6
+Low,California,Cyber Consultation,BCP/DR,Marketing,Vendor Cloud,Allan,0
+High,California,Cyber Consultation,Access Management,HR,On Prem Server,Charles,8
+High,Tennessee,Data Leak,Phishing,Finance,On Prem Cloud,Cinderalla,23
+High,Virginia,Cyber Security Breach,Trojan Attack,Marketing,On Prem Server,Veronica,146
+High,California,Data Privacy,Privacy Assessment,Finance,On Prem Server,Sylviya,16
+High,California,Cyber Security Breach,Spyware,IT,On Prem Server,Allan,8
+High,Virginia,Data Leak,Insider Threat,Marketing,On Prem Cloud,Martina,14
+Medium,California,Cyber Consultation,Application Offboarding,Legal,On Prem Server,Bob,8
+High,California,Cyber Consultation,New Application Launch,Legal,On Prem Cloud,Robbin,6
+Low,Florida,Data Privacy,PCI-DSS,Finance,On Prem Server,Martina,1
+Low,California,Cyber Consultation,BCP/DR,HR,Vendor Cloud,Veronica,0
+High,Florida,Cyber Security Breach,Malware Attack,IT,On Prem Cloud,Martina,124
+Medium,California,Data Privacy,Privacy Assessment,Finance,Vendor Cloud,Michael,1
+High,Texas,Cyber Security Breach,Firewall,Manufacturing,Vendor Cloud,Veronica,0
+High,Illinois,Cyber Consultation,BCP/DR,Marketing,On Prem Server,Bob,6
+High,California,Data Leak,Insider Threat,HR,On Prem Cloud,Veronica,6
+Low,Utah,Cyber Consultation,Network Security,IT,Vendor Cloud,Robbin,2
+Medium,Missouri,Data Privacy,Privacy Assessment,IT,On Prem Cloud,Sebastian,134
+Low,Massachusetts,Data Leak,Insider Threat,Marketing,Vendor Cloud,Bob,15
+Low,Ohio,Data Privacy,GDPR,Finance,On Prem Cloud,Allan,34
+High,New York,Cyber Security Breach,Firewall,Legal,On Prem Server,Sebastian,34
+High,Missouri,Data Leak,Phishing,HR,On Prem Server,Robbin,8
+High,California,Data Privacy,GDPR,IT,On Prem Server,Martina,7
+Medium,Texas,Data Leak,Insider Threat,Finance,On Prem Server,Aleena,91
+Low,California,Security Gap,Password non-expiry,Finance,On Prem Server,Cinderalla,6
+Low,New York,Cyber Consultation,New Application Launch,Marketing,Vendor Cloud,Allan,21
+High,Oklahoma,Cyber Consultation,New Application Launch,HR,On Prem Server,Martina,2
+Low,Iowa,Data Privacy,Privacy Assessment,Marketing,On Prem Cloud,Martina,39
+Low,District of Columbia,Data Privacy,HIPAA,Finance,On Prem Server,Sebastian,5
+Medium,New Jersey,Data Privacy,PCI-DSS,IT,On Prem Server,Robbin,0
+High,Arizona,Security Gap,Unauthorized access,Manufacturing,On Prem Cloud,Veronica,0
+High,New York,Cyber Security Breach,Malware Attack,Manufacturing,On Prem Server,Kareema,4
+High,Virginia,Security Gap,Unauthorized software,HR,On Prem Server,Cinderalla,3
+High,Arizona,Cyber Security Breach,Malware Attack,Finance,On Prem Cloud,Allan,0
+Low,California,Security Gap,Obsolete Software,Finance,Vendor Cloud,Charles,3
+Low,Utah,Data Leak,Vishing,IT,On Prem Server,Cinderalla,1
+High,Delaware,Data Leak,Phishing,IT,On Prem Cloud,Martina,105
+High,Texas,Data Leak,Insider Threat,Finance,On Prem Cloud,Cinderalla,155
+High,New York,Cyber Consultation,BCP/DR,Legal,On Prem Server,Veronica,26
+Low,California,Cyber Consultation,BCP/DR,Manufacturing,Vendor Cloud,Charles,2
+Medium,Georgia,Cyber Consultation,Access Management,HR,Vendor Cloud,Martina,8
+Low,Utah,Data Privacy,HIPAA,HR,On Prem Server,Robbin,33
+Low,Arizona,Cyber Consultation,Encryption,HR,Vendor Cloud,Allan,0
+Low,New Jersey,Security Gap,Unauthorized access,Manufacturing,On Prem Server,Allan,0
+High,Utah,Data Privacy,HIPAA,Legal,On Prem Cloud,Martina,4
+Medium,New Jersey,Security Gap,Unauthorized software,Marketing,Vendor Cloud,Allan,0
+Low,California,Cyber Consultation,Application Offboarding,Finance,On Prem Cloud,Allan,0
+High,Indiana,Cyber Security Breach,Malware Attack,Legal,Vendor Cloud,Allan,0
+High,New Jersey,Data Leak,Phishing,IT,Vendor Cloud,Allan,0
+High,Pennsylvania,Data Leak,Insider Threat,Marketing,On Prem Cloud,Charles,7
+Low,Kansas,Data Leak,Phishing,Marketing,On Prem Cloud,Veronica,167
+High,Virginia,Data Privacy,HIPAA,HR,On Prem Server,Robbin,0
+Low,Virginia,Data Privacy,Privacy Assessment,IT,On Prem Cloud,Veronica,0
+High,California,Data Privacy,HIPAA,IT,Vendor Cloud,Martina,20
+High,Pennsylvania,Cyber Security Breach,Firewall,Legal,On Prem Server,Charles,20
+High,Missouri,Data Privacy,GDPR,Manufacturing,On Prem Server,Martina,4
+Low,California,Data Privacy,HIPAA,Finance,On Prem Cloud,Cinderalla,0
+Low,Colorado,Data Leak,Vishing,Manufacturing,Vendor Cloud,Sean,2
+Medium,Arizona,Data Leak,Insider Threat,HR,On Prem Cloud,Cinderalla,12
+Medium,California,Data Leak,Phishing,Marketing,On Prem Server,Martina,6
+High,Colorado,Security Gap,Password non-expiry,IT,On Prem Cloud,Martina,14
+High,Texas,Cyber Security Breach,Firewall,IT,On Prem Server,Robbin,38
+High,Colorado,Security Gap,Unauthorized access,Legal,Vendor Cloud,Veronica,0
+High,Maryland,Cyber Security Breach,Firewall,Finance,On Prem Server,Sean,0
+Low,New York,Data Privacy,Privacy Assessment,HR,Vendor Cloud,Martina,19
+High,Virginia,Data Privacy,GDPR,IT,On Prem Cloud,Veronica,137
+Medium,California,Security Gap,Obsolete Software,Marketing,Vendor Cloud,Kareema,208
+Low,Arizona,Security Gap,Password non-expiry,IT,On Prem Server,Martina,13
+Low,Iowa,Cyber Consultation,New Application Launch,Finance,On Prem Server,Sylviya,8
+High,Georgia,Cyber Consultation,Application Offboarding,Legal,On Prem Server,Charles,11
+High,Michigan,Cyber Security Breach,Firewall,IT,Vendor Cloud,Sean,8
+Low,Colorado,Data Privacy,HIPAA,IT,On Prem Server,Martina,3
+High,Michigan,Data Privacy,PCI-DSS,IT,On Prem Cloud,Sean,0
+High,Indiana,Cyber Consultation,Application Offboarding,IT,On Prem Cloud,Martina,0
+Medium,Texas,Data Leak,Insider Threat,IT,Vendor Cloud,Aleena,6
+Low,New York,Data Leak,Vishing,Manufacturing,On Prem Cloud,Veronica,2
+Medium,California,Data Privacy,Privacy Assessment,IT,On Prem Cloud,Martina,1
+High,Michigan,Data Leak,Insider Threat,IT,Vendor Cloud,Veronica,4
+High,Alabama,Cyber Security Breach,Spyware,Legal,On Prem Cloud,Martina,3
+Medium,South Carolina,Cyber Consultation,New Application Launch,Finance,On Prem Server,Martina,3
+Medium,Massachusetts,Cyber Consultation,Network Security,HR,On Prem Server,Veronica,0
+Medium,Tennessee,Data Leak,Phishing,IT,Vendor Cloud,Benny,8
+High,Florida,Data Leak,Insider Threat,Marketing,On Prem Server,Veronica,0
+High,Missouri,Data Leak,Insider Threat,Finance,Vendor Cloud,Robbin,15
+Low,Virginia,Data Privacy,PCI-DSS,IT,Vendor Cloud,Veronica,14
+High,Texas,Cyber Security Breach,Malware Attack,HR,Vendor Cloud,Robbin,9
+High,Ohio,Data Leak,Phishing,IT,On Prem Server,Sean,8
+High,Michigan,Data Privacy,PCI-DSS,Legal,On Prem Cloud,Charlotte,11
+Medium,Oregon,Data Privacy,GDPR,HR,Vendor Cloud,Charlotte,2
+High,New York,Data Privacy,Privacy Assessment,HR,On Prem Cloud,Veronica,0
+High,California,Data Leak,Insider Threat,HR,On Prem Server,Charles,5
+Medium,Wisconsin,Data Leak,Vishing,HR,On Prem Server,Robbin,4
+High,Massachusetts,Data Leak,Insider Threat,Legal,On Prem Server,Martina,49
+Low,Florida,Data Privacy,HIPAA,Legal,On Prem Server,Michael,7
+High,Florida,Cyber Consultation,Secure Development,Finance,On Prem Server,Sean,9
+Low,Illinois,Data Privacy,HIPAA,Finance,On Prem Server,Sean,6
+High,New Jersey,Security Gap,Unauthorized access,Marketing,Vendor Cloud,Allan,23
+Low,New York,Cyber Consultation,Third Party Engagement,Manufacturing,On Prem Cloud,Martina,13
+High,Massachusetts,Data Privacy,GDPR,IT,On Prem Cloud,Bob,14
+Medium,Colorado,Cyber Consultation,Segregation of Duties,Finance,On Prem Cloud,Benny,2
+High,California,Data Privacy,PCI-DSS,Legal,On Prem Cloud,Martina,3
+Medium,Missouri,Cyber Consultation,Database Security,Legal,On Prem Server,Sean,8
+Medium,California,Data Privacy,GDPR,IT,Vendor Cloud,Kareema,20
+High,California,Data Leak,Insider Threat,IT,On Prem Cloud,Martina,42
+High,Arizona,Cyber Security Breach,Malware Attack,Finance,On Prem Server,Robbin,0
+Medium,Oregon,Data Leak,Insider Threat,Finance,On Prem Cloud,Sylviya,0
+High,North Carolina,Cyber Security Breach,Firewall,IT,On Prem Server,Martina,0
+High,Maryland,Data Leak,Insider Threat,Manufacturing,On Prem Server,Michael,17
+Low,Florida,Cyber Consultation,New Application Launch,Finance,On Prem Cloud,Cinderalla,9
+High,Indiana,Cyber Security Breach,Spyware,Marketing,On Prem Cloud,Martina,1
+Medium,District of Columbia,Cyber Consultation,Segregation of Duties,IT,On Prem Server,Martina,6
+High,New Jersey,Data Privacy,HIPAA,Legal,Vendor Cloud,Sean,5
+Medium,Kansas,Data Privacy,HIPAA,Finance,Vendor Cloud,Sylviya,8
+Low,Ohio,Data Privacy,PCI-DSS,IT,On Prem Server,Robbin,0
+Low,California,Data Leak,Vishing,Marketing,On Prem Server,Robbin,49
+Low,Illinois,Cyber Consultation,BCP/DR,Finance,On Prem Cloud,Charles,7
+Low,Texas,Cyber Consultation,New Application Launch,Manufacturing,On Prem Server,Bob,7
+Low,Colorado,Security Gap,Obsolete Software,IT,On Prem Cloud,Charles,0
+High,Virginia,Data Leak,Insider Threat,Finance,On Prem Server,Charles,0
+Medium,Ohio,Data Privacy,Privacy Assessment,HR,On Prem Server,Charles,0
+Medium,New Jersey,Data Leak,Insider Threat,Finance,On Prem Server,Charles,0
+High,Mississippi,Security Gap,Unauthorized access,Manufacturing,Vendor Cloud,Kareema,1
+High,Pennsylvania,Data Privacy,Privacy Assessment,Finance,Vendor Cloud,Sebastian,23
+High,Utah,Cyber Security Breach,Trojan Attack,IT,Vendor Cloud,Charlotte,1
+High,Florida,Data Leak,Phishing,IT,On Prem Server,Martina,29
+High,California,Data Leak,Phishing,IT,On Prem Server,Veronica,0
+Medium,California,Data Privacy,PCI-DSS,Legal,On Prem Cloud,Bob,10
+High,Virginia,Cyber Security Breach,Firewall,IT,Vendor Cloud,Sylviya,1
+Low,North Carolina,Data Privacy,HIPAA,Marketing,On Prem Server,Sebastian,7
+High,California,Data Privacy,PCI-DSS,HR,On Prem Server,Robbin,0
+Low,New York,Data Leak,Vishing,Finance,Vendor Cloud,Cinderalla,12
+High,New York,Cyber Security Breach,Trojan Attack,Marketing,On Prem Cloud,Allan,0
+Low,Illinois,Data Leak,Vishing,HR,On Prem Server,Benny,0
+High,Florida,Cyber Consultation,Database Security,Marketing,On Prem Server,Allan,0
+Medium,California,Data Privacy,PCI-DSS,Marketing,Vendor Cloud,Allan,0
+Low,Illinois,Cyber Consultation,Access Management,Manufacturing,Vendor Cloud,Allan,0
+Low,Pennsylvania,Data Leak,Phishing,IT,Vendor Cloud,Allan,0
+High,New York,Cyber Security Breach,Firewall,IT,Vendor Cloud,Allan,0
+High,Illinois,Cyber Security Breach,Firewall,HR,On Prem Cloud,Cinderalla,3
+Low,Michigan,Data Leak,Phishing,Finance,On Prem Server,Cinderalla,2
+High,California,Cyber Security Breach,Firewall,HR,Vendor Cloud,Bob,7
+Low,New York,Data Privacy,Privacy Assessment,Finance,On Prem Cloud,Robbin,0
+Low,Florida,Data Privacy,PCI-DSS,HR,On Prem Cloud,Sebastian,1
+Low,Massachusetts,Data Privacy,Privacy Assessment,IT,On Prem Cloud,Martina,4
+Low,New York,Data Privacy,Privacy Assessment,Marketing,Vendor Cloud,Sebastian,0
+Medium,Massachusetts,Cyber Consultation,Application Offboarding,HR,On Prem Server,Cinderalla,5
+Medium,Georgia,Cyber Consultation,Access Management,IT,On Prem Cloud,Cinderalla,6
+Low,Oregon,Security Gap,Unauthorized software,IT,On Prem Cloud,Charlotte,0
+High,Illinois,Cyber Security Breach,Firewall,Legal,On Prem Cloud,Martina,0
+Low,Michigan,Data Privacy,HIPAA,Manufacturing,On Prem Server,Sylviya,1
+High,Texas,Data Privacy,Privacy Assessment,HR,Vendor Cloud,Sebastian,7
+High,California,Cyber Consultation,Database Security,Legal,Vendor Cloud,Michael,8
+Low,Washington,Data Privacy,HIPAA,Marketing,Vendor Cloud,Aleena,72
+Low,Tennessee,Data Privacy,PCI-DSS,Marketing,Vendor Cloud,Sean,7
+Low,Ohio,Data Leak,Phishing,HR,On Prem Server,Benny,0
+High,Pennsylvania,Data Leak,Insider Threat,Legal,On Prem Cloud,Bob,5
+High,New York,Security Gap,Unauthorized software,Legal,On Prem Cloud,Cinderalla,3
+Low,New Jersey,Security Gap,Password non-expiry,Marketing,On Prem Server,Martina,35
+Low,Virginia,Data Privacy,GDPR,IT,Vendor Cloud,Martina,0
+High,Colorado,Data Privacy,HIPAA,Legal,Vendor Cloud,Michael,8
+High,Texas,Cyber Security Breach,Trojan Attack,Legal,Vendor Cloud,Sebastian,2
+High,Virginia,Data Privacy,GDPR,Manufacturing,On Prem Server,Michael,4
+Medium,Oregon,Data Leak,Phishing,IT,On Prem Server,Sebastian,0
+High,Mississippi,Data Leak,Phishing,HR,On Prem Cloud,Michael,5
+High,New York,Cyber Consultation,BCP/DR,Finance,On Prem Server,Charles,6
+Low,Florida,Cyber Consultation,Application Offboarding,Manufacturing,On Prem Server,Bob,149
+Low,New Jersey,Cyber Consultation,Access Management,HR,On Prem Server,Bob,95
+Medium,California,Data Privacy,Privacy Assessment,Finance,On Prem Cloud,Sylviya,7
+Low,Kentucky,Data Leak,Vishing,HR,On Prem Server,Aleena,59
+High,California,Data Privacy,PCI-DSS,Marketing,On Prem Server,Michael,0
+High,Colorado,Data Privacy,PCI-DSS,HR,On Prem Server,Benny,0
+Low,Georgia,Cyber Consultation,Access Management,IT,Vendor Cloud,Allan,0
+High,California,Security Gap,Obsolete Software,HR,On Prem Cloud,Allan,0
+High,New Jersey,Data Leak,Phishing,Finance,On Prem Server,Allan,4
+Medium,New York,Data Leak,Insider Threat,Marketing,Vendor Cloud,Martina,146
+High,New York,Data Privacy,HIPAA,IT,On Prem Server,Charles,104
+Low,California,Data Privacy,HIPAA,Manufacturing,Vendor Cloud,Charles,7
+Medium,North Carolina,Data Leak,Phishing,Marketing,On Prem Server,Benny,0
+High,Wisconsin,Cyber Security Breach,Malware Attack,IT,On Prem Server,Martina,103
+High,California,Data Leak,Vishing,HR,On Prem Server,Martina,5
+Low,District of Columbia,Data Privacy,Privacy Assessment,IT,On Prem Server,Cinderalla,8
+High,New York,Data Privacy,HIPAA,HR,On Prem Server,Martina,0
+Low,Pennsylvania,Data Privacy,Privacy Assessment,HR,Vendor Cloud,Sebastian,3
+High,Virginia,Data Leak,Phishing,Finance,Vendor Cloud,Kareema,0
+High,Florida,Security Gap,Obsolete Software,Manufacturing,On Prem Cloud,Robbin,208
+High,North Carolina,Cyber Security Breach,Malware Attack,IT,On Prem Server,Martina,101
+Low,Washington,Cyber Consultation,New Application Launch,Finance,On Prem Server,Kareema,114
+High,California,Data Privacy,GDPR,IT,Vendor Cloud,Sean,92
+High,California,Data Privacy,GDPR,IT,Vendor Cloud,Bob,92
+Low,Minnesota,Cyber Consultation,BCP/DR,IT,On Prem Server,Michael,13
+Low,Minnesota,Cyber Consultation,BCP/DR,IT,On Prem Server,Bob,13
+Low,New York,Security Gap,Password non-expiry,IT,On Prem Server,Allan,14
+High,Texas,Cyber Consultation,Application Offboarding,Marketing,On Prem Server,Martina,2
+High,Utah,Data Leak,Insider Threat,IT,On Prem Server,Martina,5
+High,California,Data Privacy,GDPR,Legal,On Prem Server,Sylviya,0
+High,Maryland,Data Privacy,HIPAA,Finance,On Prem Server,Veronica,0
+Low,California,Cyber Consultation,Segregation of Duties,Manufacturing,Vendor Cloud,Sylviya,4
+Low,Louisiana,Data Leak,Insider Threat,IT,On Prem Cloud,Kareema,180
+High,California,Cyber Consultation,Application Offboarding,IT,On Prem Cloud,Allan,11
+Low,Georgia,Data Privacy,PCI-DSS,Legal,Vendor Cloud,Bob,10
+Low,New York,Data Leak,Phishing,Manufacturing,Vendor Cloud,Aleena,11
+High,California,Cyber Security Breach,Firewall,IT,On Prem Server,Aleena,11
+High,Virginia,Cyber Security Breach,Spyware,Finance,On Prem Server,Charlotte,2
+Low,California,Data Privacy,HIPAA,Finance,On Prem Server,Kareema,2
+Medium,California,Data Privacy,PCI-DSS,Legal,On Prem Server,Sean,6
+Medium,California,Data Privacy,PCI-DSS,Legal,On Prem Server,Martina,6
+High,Colorado,Data Privacy,HIPAA,HR,Vendor Cloud,Michael,5
+High,California,Cyber Security Breach,Firewall,IT,On Prem Server,Benny,5
+High,Colorado,Data Privacy,HIPAA,HR,Vendor Cloud,Benny,5
+High,Virginia,Cyber Consultation,BCP/DR,IT,On Prem Server,Kareema,1
+High,Utah,Data Privacy,GDPR,Finance,On Prem Server,Benny,4
